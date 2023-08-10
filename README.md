@@ -1,0 +1,2 @@
+# manifest
+My Local Manifest
