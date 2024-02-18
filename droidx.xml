@@ -3,11 +3,11 @@
 
     <remote name="gitlab-local"
             fetch="https://gitlab.com/"
-            revision="lineage-20" />
+            revision="lineage-21" />
 
     <remote name="github-local"
             fetch="https://github.com/"
-            revision="lineage-20" />
+            revision="lineage-21" />
 
     <!-- hardware -->
     <!-- <project path="hardware/xiaomi" name="lazyDev-ak/android_hardware_xiaomi" remote="github-local" /> -->
